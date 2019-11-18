@@ -1,0 +1,25 @@
+{
+  "name": "vanillaJS-lista-compra",
+  "version": "1.0.0",
+  "description": "API REST de la lista de la compra con cliente JS estándar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottocol/vanillaJS-lista-compra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottocol/vanillaJS-lista-compra/issues"
+  },
+  "homepage": "https://github.com/ottocol/vanillaJS-lista-compra#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "cors": "^2.8.5"
+  }
+}
